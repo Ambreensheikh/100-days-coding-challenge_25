@@ -1,0 +1,7 @@
+//use of while loop for 5 times execution
+let i = 1;
+while (i < 6) {
+    console.log(`Hello World !`);
+    i++;
+}
+export {};
